@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.spatial4j:spatial4j:0.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.spatial4j/spatial4j/0.4.1/4234d12b1ba4d4b539fb3e29edd948a99539d9eb/spatial4j-0.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.spatial4j/spatial4j/0.4.1/c51cd6b83293a5e26993bd9848e2766654dfdddb/spatial4j-0.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
