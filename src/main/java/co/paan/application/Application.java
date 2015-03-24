@@ -14,7 +14,6 @@ import org.springframework.context.annotation.Configuration;
 @EnableAutoConfiguration(exclude = {ElasticsearchConfiguration.class})
 public class Application {
     public static void main(String args[]){
-        //hello
         SpringApplication.run(Application.class);
     }
 }
